@@ -11,9 +11,9 @@ Bases de Datos.
 KESSLER.
 
 • Integrantes: 
-Nahuel Deco
-José Maximiliano Gimenez 
-Leandro Trivellini
+Nahuel Deco,
+José Maximiliano Gimenez, 
+Leandro Trivellini.
 
 • Año: 2023.
 
