@@ -25,9 +25,11 @@
 
 ### **Integrantes:**  
 
-* Nahuel Deco,
-* José Maximiliano Gimenez, 
-* Leandro Trivellini.
+* <a href="https://github.com/Maxg8704">Jose Maximiliano Gimenez</a>
+
+* <a href="https://github.com/NahuelDe">Nahuel Deco</a>
+
+* <a href="https://github.com/Leantrivellini">Leandro Trivellini</a>
 
 
 
